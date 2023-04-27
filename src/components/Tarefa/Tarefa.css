@@ -1,0 +1,22 @@
+.tarefa {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 7px;
+    gap: 10px;
+
+    width: 100%;
+
+    background: rgba(198, 198, 198, 0.54);
+    border-radius: 12px;
+
+}
+
+.texto-tarefa{
+    display: flex;
+    gap: 10px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
